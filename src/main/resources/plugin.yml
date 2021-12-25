@@ -1,0 +1,9 @@
+name: Ducks
+version: '${project.version}'
+main: dizzillian.ducks.Ducks
+api-version: 1.18
+commands:
+  duck:
+    description: Duck
+  duckprsn:
+    description: Spawn duck at person.
